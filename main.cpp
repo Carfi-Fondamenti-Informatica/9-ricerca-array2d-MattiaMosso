@@ -15,3 +15,5 @@ int main() {
     }else{
         cout << "non presente" <<endl;
     }
+    return 0;
+ }   
